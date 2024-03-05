@@ -1,4 +1,5 @@
 # Email spoofing detector
+The script generates random password which length should be bigger than 8. 
 ## Installation And Usage
 1. Download .eml file of the mail that you want to check
 2. Run this code
